@@ -1,0 +1,172 @@
+.first-section { 
+    /* background-image: url('./assets/los-angeles-mountains.jpg'); */
+    /* width: 100%; */
+    /* height: 100%; */
+}
+
+.image-test { 
+    object-fit: contain;
+    width: 100%;
+}
+.image-test2{ 
+    
+}
+.header { 
+    /* background-color: green; */
+    position: absolute;
+    height: 3rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-content: flex-end; */
+}
+
+.nav-menu { 
+    background-color: whitesmoke;
+    height: 3rem;
+    margin-top: -.5rem;
+    padding-top: 1rem;
+}
+
+.link-div{ 
+    margin: 0 auto;
+    /* background-color: pink; */
+    width: 60%;
+}
+
+.history-link1 { 
+    color: white;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-left: 2.5rem;
+    font-style: italic;
+    font-family: sans-serif;
+
+}
+
+.team-link1 { 
+    color: white;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-left: 2.5rem;
+    font-style: italic;
+    font-family: sans-serif;
+
+
+}
+.history-link2 { 
+    color: navy;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-left: 2.5rem;
+    font-size: .8rem;
+    font-style: italic;
+    font-family: sans-serif;
+
+}
+
+.team-link2 { 
+    color: navy;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-left: 2.5rem;
+    font-size: .8rem;
+    font-style: italic;
+    font-family: sans-serif;
+
+
+}
+.two { 
+    font-size: 8rem; 
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: gray;
+    font-weight: 800;
+
+}
+.climb-title { 
+    font-size: 2rem; 
+    text-transform: uppercase;
+    font-family: sans-serif;
+    margin-left: -1.7rem
+}
+
+.climb-div { 
+    background-color: whitesmoke;
+    height: 10rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-weight: 200;
+}
+.climb-text { 
+    color: black;
+    /* background-color: darkcyan; */
+    width: 35rem;
+    margin-left: 3rem;
+    font-family: sans-serif;
+}
+
+.mountain-div{
+    background-color: blue;
+    height: 2em
+}
+
+.mountain1 { 
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-left: 2.5rem;
+    background-color: grey;
+    color: lightblue;
+    font-family: sans-serif;
+    font-size: 1.4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .3em;
+    padding-bottom: .3em;
+    margin-right: 2rem;
+    margin-left: 20rem;
+    
+}
+.mountain2 { 
+    text-transform: uppercase;
+    color: grey;
+    font-family: sans-serif;
+    font-size: 1.4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .3em;
+    padding-bottom: .3em;
+    
+
+
+}
+
+.schedule-div { 
+    background-color: white;
+    width: 20rem;
+    height: 15rem;
+    opacity: .7;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem
+    
+}
+.november { 
+    margin-bottom: 2rem
+}
+
+.december { 
+    margin-bottom: 2rem
+    
+}
+
+.schedule-date { 
+    display: flex;
+    flex-direction: row;
+    height: 2rem;
+    justify-content: space-around;
+}
+
